@@ -5,6 +5,5 @@ powinien on posiadać jedną metodę - update(), która jest wykonywana w kiedy 
  */
 
 public interface Listener {
-
     void update();
 }
